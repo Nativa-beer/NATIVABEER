@@ -1,3 +1,151 @@
-# NATIVABEER
-Creamos cerveza artesanal sin alcohol para quienes quieren disfrutar el sabor auténtico, compartir momentos y vivir experiencias sin límites.
-Nativa es una *startup* de triple impacto nacida como un exitoso emprendimiento estudiantil dentro de Eight Academy en Quito (período 2026), liderada por un equipo gerencial que incluye a Mia Álvaro, Isabela Mena, Camila Muela, María Paz Armas, Adrián Rodríguez y Camila Sánchez, bajo la mentoría de Jaime Salvador. El proyecto transforma el mercado de bebidas en América Latina al producir cervezas artesanales y cócteles 100% libres de alcohol, bajos en calorías y endulzados con miel de abejas pura, resolviendo la saturación de refrescos industriales hiperprocesados que excluyen a jóvenes, estudiantes y personas con restricciones médicas. La validez del mercado fue respaldada por una investigación interna donde el 87% de los encuestados mostró apertura a probar sabores disruptivos —liderando la demanda el maracuyá (78%), el jengibre (72%) y los frutos rojos (68%)—, mientras que un 82% afirmó que participaría en su sistema de economía circular. Comercializado a un precio de venta al público de $2.50 USD por botella, el modelo de negocio incentiva la devolución de envases reembolsando $0.50 USD al cliente, lo que optimiza el costo real neto a $2.00 USD, complementándose con ventas en ferias (de $1.00 a $2.00 USD por vaso) y una línea corporativa B2B de *Corporate Wellness*. Para asegurar el 0.0% de graduación alcohólica sin alterar las propiedades nutritivas, la Gerencia de Producción aplica un estricto proceso químico de choque térmico forzado por debajo de los 30°C seguido de refrigeración inmediata durante la carbonatación ligera, frenando así el metabolismo de la levadura. Toda esta operación se soporta en una arquitectura tecnológica avanzada que emplea Wix Nano, HTML5, CSS3 y JavaScript en el frontend; Firebase y PostgreSQL en el backend; APIs de Inteligencia Artificial Generativa (ChatGPT y Gemini) para la recomendación dinámica de sabores; y protocolos Blockchain (Hyperledger Fabric) para la trazabilidad inmutable de la materia prima y el ciclo de vida de las botellas. Finalmente, Nativa se alinea con la Agenda 2030 de la ONU mediante el ODS 3 (Salud y Bienestar), el ODS 12 (Producción y Consumo Responsables al transformar subproductos como el bagazo en abono), y los ODS 1 y 9 (Fin de la Pobreza e Industria) al adquirir insumos mediante comercio justo directamente de comunidades agrícolas e indígenas. Con esto, el proyecto planea un escalamiento comercial que va desde la Fase 0 de prueba interna, pasando por la Fase 1 de expansión urbana nacional, hasta la Fase 2 de internacionalización hacia las capitales de distintos paises de usuarios enfocados en el bienestar.
+Nativa
+
+Cerveza artesanal y cócteles sin alcohol
+
+Descripción del proyecto
+
+Nativa es una empresa de bebidas artesanales sin alcohol creada como proyecto escolar en la materia de Emprendimiento. La marca surge con el propósito de ofrecer una alternativa saludable, innovadora y accesible para personas que desean disfrutar de bebidas con el estilo y la experiencia de una cerveza o cóctel, pero sin los efectos negativos del alcohol.
+
+El proyecto busca generar conciencia sobre el consumo de alcohol a temprana edad y demostrar que es posible crear experiencias sociales agradables sin necesidad de bebidas alcohólicas.
+
+Asimismo, Nativa está dirigida a personas con restricciones médicas, problemas de salud o estilos de vida que no les permiten consumir alcohol de manera tradicional.
+
+⸻
+
+Misión
+
+Desarrollar bebidas artesanales sin alcohol que combinen sabor, creatividad e innovación, ofreciendo una alternativa moderna y saludable para jóvenes y adultos.
+
+⸻
+
+Visión
+
+Convertirse en una marca reconocida por transformar el concepto de cerveza artesanal y cócteles sin alcohol, promoviendo una cultura de consumo más consciente y saludable.
+
+⸻
+
+Problemática que aborda el proyecto
+
+Actualmente, muchas personas, especialmente jóvenes, comienzan a consumir alcohol a edades tempranas, lo que puede generar consecuencias negativas para la salud y el bienestar.
+
+Además, existen personas con condiciones médicas o limitaciones de salud que no pueden consumir bebidas alcohólicas tradicionales.
+
+Nativa nace como una propuesta diferente: bebidas artesanales con sabor, identidad y experiencia social, pero completamente libres de alcohol.
+
+⸻
+
+Productos
+
+Cervezas artesanales sin alcohol
+
+* Maracuyá
+* Jengibre
+* Frutos rojos
+* Nuevos sabores en desarrollo
+
+Cócteles sin alcohol
+
+* Carbón activado
+* Cereza
+* Blueberry
+
+⸻
+
+Objetivos del proyecto
+
+* Promover hábitos de consumo más saludables.
+* Reducir la normalización del consumo de alcohol en jóvenes.
+* Crear una marca innovadora y moderna.
+* Ofrecer productos accesibles para todo público.
+* Demostrar el impacto positivo del emprendimiento escolar.
+
+⸻
+
+Plataforma digital
+
+Actualmente, Nativa cuenta con:
+
+* Una aplicación desarrollada en Wix Nano.
+* El desarrollo de una página web oficial.
+* Diseño de identidad visual y branding.
+
+La página web tiene como finalidad:
+
+* Presentar el catálogo de productos.
+* Mostrar la identidad y objetivos de la marca.
+* Facilitar futuras ventas y pedidos.
+* Dar visibilidad al proyecto.
+
+⸻
+
+Equipo de trabajo
+
+Dirección General
+
+* Mía Álvaro — Gerente General
+
+Producción y Operaciones
+
+* Isabela Mena — Gerente de Producción y Operaciones
+* María Paz Armas — Gerente de Producción
+
+Investigación, Desarrollo e Innovación
+
+* Camila Sánchez — Investigación, Desarrollo e Innovación (I+D+i)
+
+Marketing y Publicidad
+
+* Camila Muela — Gerente de Marketing y Publicidad
+
+Ventas
+
+* Adrián Rodríguez — Gerente de Ventas
+
+⸻
+
+Mentor del proyecto
+
+* Jaime Salvador
+
+⸻
+
+Valores de la marca
+
+* Innovación
+* Responsabilidad social
+* Creatividad
+* Trabajo en equipo
+* Salud y bienestar
+* Conciencia juvenil
+
+⸻
+
+Estado del proyecto
+
+Nativa se encuentra actualmente en fase de crecimiento y desarrollo, trabajando en:
+
+* Nuevos sabores
+* Expansión de marca
+* Desarrollo web
+* Estrategias de marketing
+* Participación en ferias y presentaciones escolares
+
+⸻
+
+Tecnologías utilizadas
+
+* Wix Nano
+* Herramientas de diseño gráfico digital
+* Branding e identidad visual
+
+⸻
+
+Slogan
+
+“La mejor diversión es cuidar tu salud.”
+
+⸻
+
+Contacto
+
+Proyecto escolar de emprendimiento desarrollado por el equipo Nativa.
